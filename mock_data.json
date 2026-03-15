@@ -1,0 +1,186 @@
+[
+    
+    {
+        "full_name": "Nguyen Minh Quan",
+        "email": "quan.nm@gmail.com",
+        "phone": "0912888999",
+        "address": "Quận 1, TP. Hồ Chí Minh",
+        "university": "Đại học Bách Khoa TP.HCM",
+        "major": "Kỹ thuật Máy tính",
+        "degree": "Kỹ sư",
+        "gpa": "3.4/4.0",
+        "certifications": [
+            "AWS Certified Cloud Practitioner",
+            "JLPT N3"
+        ],
+        "skills": [
+            "C++",
+            "Linux",
+            "Docker",
+            "Embedded Systems"
+        ],
+        "experience": "Phát triển Firmware tại Bosch Vietnam"
+    },
+    {
+        "full_name": "Le Thi Tuyet Mai",
+        "email": "mai.ltt@gmail.com",
+        "phone": "0987111222",
+        "address": "Thủ Đức, TP. Hồ Chí Minh",
+        "university": "Đại học Công nghệ Thông tin (UIT)",
+        "major": "An toàn Thông tin",
+        "degree": "Cử nhân",
+        "gpa": "3.6/4.0",
+        "certifications": [
+            "CompTIA Security+",
+            "CEH"
+        ],
+        "skills": [
+            "Penetration Testing",
+            "Python",
+            "Network Security",
+            "Wireshark"
+        ],
+        "experience": "Thực tập sinh SOC tại Viettel Cyber Security"
+    },
+    {
+        "full_name": "Tran Hoang Nam",
+        "email": "nam.th@gmail.com",
+        "phone": "0706555444",
+        "address": "Quận 7, TP. Hồ Chí Minh",
+        "university": "Đại học RMIT Việt Nam",
+        "major": "Software Engineering",
+        "degree": "Cử nhân xuất sắc",
+        "gpa": "3.9/4.0",
+        "certifications": [
+            "Full-stack Web Development Boot Camp"
+        ],
+        "skills": [
+            "ReactJS",
+            "NodeJS",
+            "MongoDB",
+            "TypeScript"
+        ],
+        "experience": "Freelance Web Developer (1.5 năm)"
+    },
+    {
+        "full_name": "Pham Thu Ha",
+        "email": "ha.pham@vnu.edu.vn",
+        "phone": "0909123123",
+        "address": "Cầu Giấy, Hà Nội",
+        "university": "Đại học Công nghệ (UET) - ĐHQGHN",
+        "major": "Khoa học Máy tính",
+        "degree": "Cử nhân",
+        "gpa": "3.7/4.0",
+        "certifications": [
+            "TOEIC 850",
+            "Cisco CCNA"
+        ],
+        "skills": [
+            "Java",
+            "Spring Boot",
+            "Microservices",
+            "Git"
+        ],
+        "experience": "Backend Developer Intern tại VNG"
+    },
+    {
+        "full_name": "Vo Thanh Dat",
+        "email": "dat.vt@dut.edu.vn",
+        "phone": "0888999000",
+        "address": "Hải Châu, Đà Nẵng",
+        "university": "Đại học Bách Khoa Đà Nẵng",
+        "major": "Công nghệ Thông tin",
+        "degree": "Kỹ sư",
+        "gpa": "3.2/4.0",
+        "certifications": [
+            "Microsoft Certified: Azure Fundamentals"
+        ],
+        "skills": [
+            "C#",
+            ".NET",
+            "SQL Server",
+            "Agile/Scrum"
+        ],
+        "experience": "Tham gia dự án quản lý bệnh viện cấp thành phố"
+    },
+    {
+        "full_name": "Hoang Yen Chi",
+        "email": "chi.hy@ctu.edu.vn",
+        "phone": "0777333222",
+        "address": "Ninh Kiều, Cần Thơ",
+        "university": "Đại học Cần Thơ",
+        "major": "Hệ thống Thông tin",
+        "degree": "Cử nhân",
+        "gpa": "3.5/4.0",
+        "certifications": [
+            "SAP Certified Application Associate"
+        ],
+        "skills": [
+            "ERP",
+            "Business Analysis",
+            "UML",
+            "Power BI"
+        ],
+        "experience": "Phân tích nghiệp vụ cho dự án chuỗi cung ứng nông sản"
+    },
+    {
+        "full_name": "Ngo Gia Bao",
+        "email": "bao.ngo@gmail.com",
+        "phone": "0934567890",
+        "address": "Biên Hòa, Đồng Nai",
+        "university": "Đại học FPT",
+        "major": "Kỹ thuật Phần mềm",
+        "degree": "Cử nhân",
+        "gpa": "3.3/4.0",
+        "certifications": [
+            "Coursera Meta Front-End Developer"
+        ],
+        "skills": [
+            "HTML/CSS",
+            "JavaScript",
+            "VueJS",
+            "Figma"
+        ],
+        "experience": "Thiết kế UI/UX và lập trình Front-end cho startup E-commerce"
+    },
+    {
+        "full_name": "Dinh Van Hung",
+        "email": "hung.dv@hcmus.edu.vn",
+        "phone": "0868112233",
+        "address": "Quận 5, TP. Hồ Chí Minh",
+        "university": "Đại học Khoa học Tự nhiên TP.HCM",
+        "major": "Trí tuệ Nhân tạo",
+        "degree": "Cử nhân",
+        "gpa": "3.9/4.0",
+        "certifications": [
+            "DeepLearning.AI TensorFlow Developer"
+        ],
+        "skills": [
+            "Python",
+            "PyTorch",
+            "Computer Vision",
+            "NLP"
+        ],
+        "experience": "Công bố 1 bài báo khoa học về nhận diện hình ảnh y khoa"
+    },
+    {
+        "full_name": "Bui Thi Lan",
+        "email": "lan.bt@gmail.com",
+        "phone": "0945678123",
+        "address": "Thành phố Huế, Thừa Thiên Huế",
+        "university": "Đại học Khoa học - Đại học Huế",
+        "major": "Công nghệ Phần mềm",
+        "degree": "Cử nhân",
+        "gpa": "3.6/4.0",
+        "certifications": [
+            "ISTQB Foundation Level"
+        ],
+        "skills": [
+            "Manual Testing",
+            "Automation Testing",
+            "Selenium",
+            "Postman"
+        ],
+        "experience": "QA/QC Engineer thực tập tại KMS Technology"
+    }
+]
